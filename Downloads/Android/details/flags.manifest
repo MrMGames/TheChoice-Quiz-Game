@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 431427566
+CRC: 3347579932
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c99ea946d081927ef1805680921ae0e5
+    Hash: 45d53188ddf703d969e4f4f797a2320f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c99ea946d081927ef1805680921ae0e5
+    Hash: 45d53188ddf703d969e4f4f797a2320f
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -20,6 +20,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/PictureQuizPlus/Resources/details/flags/deutsch.Png
 - Assets/PictureQuizPlus/Resources/details/flags/french.Png
-- Assets/PictureQuizPlus/Resources/content/Nature/Flags/icon.Png
 - Assets/PictureQuizPlus/Resources/details/flags/english My.Png
 Dependencies: []
